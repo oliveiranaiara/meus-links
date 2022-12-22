@@ -1,0 +1,90 @@
+* {margin: 1;
+ padding: 0}
+
+body {
+    background-color: #fdfafa;
+    font-family: sans-serif;
+    background: linear-gradient(236.85deg, #fffefe 27.26%, #3468A7 96.03%);
+    font-family: Open Sans,sans-serif;
+}
+
+img {
+    border-radius:50%;
+    width: 320px;
+    height: 320px;
+    border: 1px solid rgb(71, 71, 201);
+}
+
+h1 {
+    color: rgba(2, 2, 2, 0.842);
+    margin-top: 31px;
+    margin-bottom: 8px;
+}
+
+p {
+    color: rgba(8, 8, 8, 0.685);
+}
+
+ul {
+    margin-top: 35px;  
+}
+
+li {
+    margin-bottom: 18px;
+    list-style: none;
+}
+
+a {
+    background-color: rgb(8, 8, 54);
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    display: block;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color:#B0C4DE;
+    color: rgb(15, 15, 90);
+}
+
+footer {
+    color:#B0C4DE;
+}
+
+.container {
+    width: 320px;
+    text-align: center;
+    margin-top: 41px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.titulo h1 {
+    font-family: 'Satisfy', cursive;
+    font-weight: 700;
+    font-size: 36px;
+  }
+  
+  .cabecalho button {
+	background: transparent;
+	border: none;
+	cursor: pointer;
+	height: fit-content;
+}
+
+.imgDark {
+    width: 30px;
+    height: 30px;
+    
+}
+  
+  .dark {
+    background: linear-gradient(236.85deg, #041933 27.26%, #6B87A9 96.03%);
+  }
+  
+  .dark .tema button {
+    background: #fdfdfd00;
+    border: 2px solid #01000246;
+    color: rgba(255, 255, 255, 0.432);
+  }
+  
